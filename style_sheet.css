@@ -1,0 +1,88 @@
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+  color: #353535;
+  background: #f2f2f2;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #6d6d6d;
+}
+
+
+h2 {
+  color: #6d6d6d;
+  font-weight: lighter;
+}
+
+td {
+  text-align: justify;
+  padding: 12px;
+}
+
+.content {
+  width: 720px;
+  margin: 60px auto;
+}
+
+.box {
+  background: white;
+  text-align: center;
+  margin-bottom: 12px;
+  padding: 36px;
+  border-radius: 6px;
+  box-shadow: 1px 2px 5px -2px #a5a5a5;
+}
+
+.social {
+  padding: 6px;
+  background: #f7f7f7;
+}
+
+.about {
+  padding: 6px;
+  background: #f7f7f7;
+}
+
+.about-text {
+  margin: 4px;
+  font-size: 8px;
+  line-height: 12px;
+}
+
+.about-h2 {
+  margin: 4px;
+  font-size: 16px;
+}
+
+.avatar {
+  width: 200px;
+  border-radius: 50%
+}
+
+.img-movie {
+  width: 160px;
+  border-radius: 6px;
+  box-shadow: 6px 2px 30px -4px #a5a5a5;
+}
+
+.inline-list {
+  margin: 0px;
+  padding: 0px;
+}
+.inline-list > li {
+  color: #C2C8D1;
+  text-decoration: none;
+  display: inline;
+  margin: 0px 4px 0px 4px;
+}
+
+.call-to-action {
+  background-color: #FF6B6B;
+  color: white;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 4px;
+}
